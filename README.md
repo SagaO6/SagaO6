@@ -1,6 +1,9 @@
 ### Hi there 👋
 
+
+<a href="https://github.com/SagaO6"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SagaO6&theme=radical&hide_border=false"/></a>
 <a href="https://github.com/SagaO6"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagaO6&layout=compact&langs_count=7&theme=radical"/></a>
+
 
 <!--
 **SagaO6/SagaO6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
