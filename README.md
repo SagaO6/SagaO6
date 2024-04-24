@@ -1,4 +1,4 @@
-### Hi there 👋
+### Thiago Rivas 👋
 
 <p align="center">
 <a href="https://github.com/SagaO6"><img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=SagaO6&theme=radical&hide_border=false"/></a>
